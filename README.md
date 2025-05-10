@@ -9,12 +9,6 @@ Una moderna applicazione To-Do con autenticazione utente, sviluppata con:
 
 ---
 
-## 📸 Screenshot
-
-![screenshot](https://via.placeholder.com/800x400?text=TODO+App+Screenshot)
-
----
-
 ## 🚀 Funzionalità
 
 - ✅ Registrazione e Login sicuri con JWT
@@ -75,7 +69,6 @@ todo-app/
 ---
 🙌 Autore
 Realizzato da WEBMOMS
-GitHub
 
 
 
