@@ -1,0 +1,16 @@
+# Node.js
+node_modules
+.env
+dist
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Vite
+.client
+.vite
+
+# Build output
+build
